@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @clairesstudy
-- 👀 I’m interested in everythinggg 
-- 🌱 I’m currently learning french laggauge ,codding ,art ,additional math
-- 💞️ I’m looking to collaborate on socials
-- 📫 How to reach me ig : ffclairex_
+- 👋 Hi, I’m 
+- 👀 I’m interested 
+- 🌱 I’m currently 
+- 💞️ I’m looking to
+- 📫 How to reach me 
 - 😄 Pronouns: she / her
-- ⚡ Fun fact: i am batman
+- ⚡ Fun fact: 
 
 <!---
 clairesstudy/clairesstudy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
